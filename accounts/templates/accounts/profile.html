@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block title %} {{ user.username}}'s Profile | {{ super }}{% endblock %}
+
+{% block body %}
+<div class="container">
+    <div class="grid-100">
+        <div class="grid-25">
+            <img src="{{ profile.avatar.url }}" height="200">
+            <a class="button" href="{% url 'accounts:edit_profile' %}">Edit Profile</a>
+            <a class="button" href="{% url 'accounts:change_password' %}">Change Password</a>
+        </div>
+        <div class="grid-75">
+            <h1>{{ user.username }}</h1>
+            <h3><b>Name:</b>{{ profile.first_name }}  {{ profile.last_name }}</h3>
+            <h3><b>Email:</b> {{ profile.email }}</h3>
+            <h3><b>Birthday:</b> {{ profile.birth_date|date:"m/d/Y" }}</h3>
+            {% if user.profile.bio %}
+                <h3><b>Bio:</b> {{ profile.bio|escape}}</h3>
+            {% else %}
+                <h3><b>Bio:</b> <i>This user does not seem to have a life...</i></h3>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{% endblock %}
