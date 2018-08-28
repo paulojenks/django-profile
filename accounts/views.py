@@ -66,11 +66,7 @@ def sign_out(request):
 @login_required
 def profile_view(request):
     '''User Profile View'''
-    try:
-        profile = models.Profile.objects.get(user=request.user)
-    except models.Profile.DoesNotExist:
-        profile = models.Profile(user=request.user)
-        profile.save()
+    profile = get_object_or_404(models.Profile, id=request.user.id)
     return render(request, 'accounts/profile.html', {'profile': profile})
 
 

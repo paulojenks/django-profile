@@ -6,7 +6,11 @@
 <div class="container">
     <div class="grid-100">
         <div class="grid-25">
-            <img src="{{ profile.avatar.url }}" height="200">
+            {% if profile.avatar.url %}
+                <img src="{{ profile.avatar.url }}" height="200">
+            {% else %}
+                <img src="django-profile/assets/media/avatar_photos/avatar-159236_1280.png" height="200">
+            {% endif %}
             <a class="button" href="{% url 'accounts:edit_profile' %}">Edit Profile</a>
             <a class="button" href="{% url 'accounts:change_password' %}">Change Password</a>
         </div>

@@ -5,10 +5,25 @@ from . import models
 
 
 class ProfileForm(forms.ModelForm):
-    first_name = forms.CharField(max_length=100)
+    confirm_email = forms.EmailField(max_length=100, label='Confirm Email')
+    avatar = forms.ImageField(required=False)
+    first_name = forms.CharField(required=False)
+    last_name = forms.CharField(required=False)
+    birth_date = forms.DateField(input_formats=['%Y-%m-%d', '%m/%d/%Y', '%m/%d/%y'], required=False)
+    bio = forms.CharField(required=False)
+
     class Meta:
         model = models.Profile
-        fields = ['first_name', 'last_name', 'email', 'birth_date', 'bio', 'avatar']
+        fields = ['first_name', 'last_name', 'email', 'confirm_email', 'birth_date', 'bio', 'avatar']
+
+    def clean(self):
+        cleaned_data = super().clean()
+        email = cleaned_data.get('email')
+        verify = cleaned_data.get('confirm_email')
+
+        if email != verify:
+            raise forms.ValidationError(
+                "You need to enter the same email in both fields")
 
 
 class CustomPasswordChangeForm(PasswordChangeForm):
