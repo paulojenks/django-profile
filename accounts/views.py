@@ -20,9 +20,7 @@ def sign_in(request):
                 user = form.user_cache
                 if user.is_active:
                     login(request, user)
-                    return HttpResponseRedirect(
-                        reverse('home')  # TODO: go to profile
-                    )
+                    return HttpResponseRedirect(reverse('accounts:profile'))
                 else:
                     messages.error(
                         request,
@@ -51,9 +49,9 @@ def sign_up(request):
                 request,
                 "You're now a user! You've been signed in, too."
             )
-            profile = models.Profile(user=request.user)
+            profile = models.Profile(user=request.user)   # Create profile to go with User
             profile.save()
-            return HttpResponseRedirect(reverse('accounts:profile'))  # TODO: go to profile
+            return HttpResponseRedirect(reverse('accounts:profile'))
     return render(request, 'accounts/sign_up.html', {'form': form})
 
 

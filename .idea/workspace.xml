@@ -1,108 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5312431e-20c6-47ef-addf-0c66cbc8bc54" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/components.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/components.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/components/containers.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/components/containers.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/components/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/components/forms.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/components/headers.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/components/headers.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/components/lists.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/components/lists.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/components/tables.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/components/tables.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/core.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/core.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/core/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/core/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/core/buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/core/buttons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/core/code.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/core/code.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/core/docs.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/core/docs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/core/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/core/forms.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/core/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/core/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/core/lists.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/core/lists.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/core/mixins.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/core/mixins.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/core/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/core/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/core/spacing.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/core/spacing.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/core/tables.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/core/tables.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/core/type.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/core/type.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/circle/core/utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/circle/core/utilities.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/variables.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/add.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/add.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/arrow-right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/arrow-right.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/chevron.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/chevron.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/search.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/star.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/star.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/autogrow.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/autogrow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/global.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-    </list>
+    <list default="true" id="5312431e-20c6-47ef-addf-0c66cbc8bc54" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/accounts/forms.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="global.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/global.css">
+      <file leaf-file-name="layout.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="2107" selection-start-line="2107" selection-end-line="2107" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="components.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/circle/components.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1206" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="core.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/circle/core.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-985" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="buttons.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/circle/core/buttons.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-883" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="containers.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/circle/components/containers.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1308" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/accounts/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/accounts/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -110,9 +26,7 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project_7/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1751">
-              <caret line="103" selection-start-line="103" selection-end-line="103" />
-            </state>
+            <state relative-caret-position="-2134" />
           </provider>
         </entry>
       </file>
@@ -120,6 +34,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project_7/settings.py" />
+        <option value="$PROJECT_DIR$/project_7/urls.py" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -129,6 +51,11 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="800" />
+    <option name="width" value="745" />
+    <option name="height" value="915" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -140,50 +67,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="profile_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="profile_project" type="462c0819:PsiDirectoryNode" />
+              <item name="django-profile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-profile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="profile_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="profile_project" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
+              <item name="django-profile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-profile" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="profile_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="profile_project" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
+              <item name="django-profile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-profile" type="462c0819:PsiDirectoryNode" />
+              <item name="project_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-profile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-profile" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="profile_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="profile_project" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="profile_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="profile_project" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="profile_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="profile_project" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="profile_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="profile_project" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="profile_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="profile_project" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-              <item name="user_avatar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,6 +91,11 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django_mineral_catalog" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,6 +108,30 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="django-profile" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django-profile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -218,7 +147,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -226,11 +155,10 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32905984" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32884097" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32905984" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -241,7 +169,11 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32905984" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -252,268 +184,90 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/accounts/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="102" selection-start-line="102" selection-end-line="102" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="85" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/change_password.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_7/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
-          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_7/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1819">
-          <caret line="107" column="58" lean-forward="true" selection-start-line="107" selection-start-column="58" selection-end-line="107" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="72" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_7/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_7/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/profile.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/sign_in.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/sign_up.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/sign_in.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/circle/core.css" />
+    <entry file="file://$PROJECT_DIR$/assets/css/circle/core/buttons.css" />
+    <entry file="file://$PROJECT_DIR$/assets/css/circle/components/containers.css" />
+    <entry file="file://$PROJECT_DIR$/accounts/views.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/urls.py" />
+    <entry file="file://$PROJECT_DIR$/project_7/settings.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/models.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/views.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/urls.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/change_password.html" />
+    <entry file="file://$PROJECT_DIR$/project_7/settings.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/forms.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/models.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/views.py" />
+    <entry file="file://$PROJECT_DIR$/project_7/settings.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/forms.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/models.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/forms.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/urls.py" />
+    <entry file="file://$PROJECT_DIR$/project_7/urls.py" />
+    <entry file="file://$PROJECT_DIR$/project_7/settings.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/profile.html" />
+    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/sign_in.html" />
+    <entry file="file://$PROJECT_DIR$/accounts/views.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/sign_up.html" />
+    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/sign_in.html" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1b9c63aa-5460-4271-8445-d630a2df9b52/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/media/user_avatar/a790712f-94fd-4c40-95ab-fec033bd90e5-0e7dc25c-8aba-465a-b1fb-93b696a1086e-v1.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/assets/media/user_avatar/a790712f-94fd-4c40-95ab-fec033bd90e5-0e7dc25c-8aba-465a-b1fb-93b696a1086e-v1.png" />
+    <entry file="file://$PROJECT_DIR$/accounts/validators.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/edit_profile.html" />
+    <entry file="file://$PROJECT_DIR$/project_7/validators.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/models.py" />
+    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/change_password.html" />
+    <entry file="file://$PROJECT_DIR$/assets/css/variables.css" />
+    <entry file="file://$PROJECT_DIR$/assets/css/circle/components/headers.css" />
+    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/profile.html" />
+    <entry file="file://$PROJECT_DIR$/accounts/forms.py" />
+    <entry file="file://$PROJECT_DIR$/assets/css/global.css" />
+    <entry file="file://$PROJECT_DIR$/assets/css/circle/components.css" />
+    <entry file="file://$PROJECT_DIR$/assets/css/circle/core.css" />
+    <entry file="file://$PROJECT_DIR$/assets/css/circle/core/buttons.css" />
+    <entry file="file://$PROJECT_DIR$/assets/css/circle/components/containers.css" />
+    <entry file="file://$PROJECT_DIR$/project_7/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/project_7/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="416">
+          <caret line="35" column="70" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/validators.py" />
-    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/edit_profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_7/validators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/models.py">
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/change_password.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project_7/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1751">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        <state relative-caret-position="-2134" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/variables.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/circle/components/headers.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/circle/components.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1206" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/circle/core.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-985" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/circle/core/buttons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-883" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/circle/components/containers.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1308" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="2107" selection-start-line="2107" selection-end-line="2107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/templates/accounts/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/forms.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

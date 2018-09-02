@@ -1,0 +1,5 @@
+coverage==4.5.1
+Django==2.0.6
+peewee==3.2.2
+Pillow==5.1.0
+pytz==2018.4
