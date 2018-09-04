@@ -25,6 +25,11 @@ class ProfileForm(forms.ModelForm):
             raise forms.ValidationError(
                 "You need to enter the same email in both fields")
 
+        if models.Profile.objects.get(email=email):
+            raise forms.ValidationError(
+                "That email is already in use."
+            )
+
 
 class CustomPasswordChangeForm(PasswordChangeForm):
     class Meta:

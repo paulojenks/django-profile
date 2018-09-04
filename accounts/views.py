@@ -49,8 +49,6 @@ def sign_up(request):
                 request,
                 "You're now a user! You've been signed in, too."
             )
-            profile = models.Profile(user=request.user)   # Create profile to go with User
-            profile.save()
             return HttpResponseRedirect(reverse('accounts:profile'))
     return render(request, 'accounts/sign_up.html', {'form': form})
 
@@ -64,7 +62,7 @@ def sign_out(request):
 @login_required
 def profile_view(request):
     '''User Profile View'''
-    profile = get_object_or_404(models.Profile, id=request.user.id)
+    profile = models.Profile.objects.get_or_create(user=request.user)
     return render(request, 'accounts/profile.html', {'profile': profile})
 
 
